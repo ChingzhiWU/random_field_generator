@@ -14,10 +14,5 @@ Technically, the functions are for 3D random fields, however lower dimensions ca
 An overview of the process can be found in this freely-available conference paper:
 http://rpsonline.com.sg/proceedings/isgsr2019/pdf/IS12-11.pdf
 
-## Repository Ownership
-* **Practice**: INSERT HERE
-* **Sector**: - INSERT HERE
-* **Original Author(s)**: - INSERT HERE
-* **Contact Details for Current Repository Owner(s)**: michael.crisp@mottmac.com
 ## Installation Instructions
 The code relies on commonly-available third-party packages Matplotlib, Numpy and Scipy. You can install Anaconda Python which includes these packages and many more: https://www.anaconda.com/
