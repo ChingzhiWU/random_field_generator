@@ -1,4 +1,4 @@
-# Insert Python Repository Name Here
+# Random Field Generator
 
 ![Python Logo](./python_logo.png)
 ## Description
@@ -20,22 +20,4 @@ http://rpsonline.com.sg/proceedings/isgsr2019/pdf/IS12-11.pdf
 * **Original Author(s)**: - INSERT HERE
 * **Contact Details for Current Repository Owner(s)**: michael.crisp@mottmac.com
 ## Installation Instructions
-In order to successfully run the code in this respository, it is recommended that you create a virtual environment and install the required packages from the requirements.txt file provided. This can be done either through pip or conda Python package managers in the appropriate command line.
-
-```
-# For pip
-> python -m venv .\venv
-> venv\Scripts\activate
-> pip install -r requirements.txt
-
-# For conda
-> conda create --name venv --file requirements.txt
-> conda activate
-```
-
-## Running the Code
-Insert instructions on how to run the code here.
-
-```
-
-```
+The code relies on commonly-available third-party packages Matplotlib, Numpy and Scipy. You can install Anaconda Python which includes these packages and many more: https://www.anaconda.com/
